@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Suivi de mon enfant</string>
+
+    <!-- TextView -->
+    <string name="tv_date_text"><b>Date :</b></string>
+    <string name="tv_heure_text"><b>Heure :</b></string>
+    <string name="tv_duree_text"><b>Durée des tétées, SG, SD :</b></string>
+    <string name="tv_qte_text"><b>Quantité de lait donné (ml) :</b></string>
+    <string name="tv_mecoSelles_text"><b>Méco (M), Selles (S) :</b></string>
+    <string name="tv_urines_text"><b>Urines (U) :</b></string>
+    <string name="tv_obs_text"><b>Observations :</b></string>
+
+    <!-- EditText -->
+    <string name="ed_obs_text">Saisir vos observations :</string>
+    <string name="ed_qte_text">Saisir la quantité :</string>
+    <string name="ed_duree_text">Saisir la durée :</string>
+
+    <!-- Buttons -->
+    <string name="btn_validation_text">Enregistrer</string>
+    <string name="btn_annule_text">Annuler</string>
+
+    <!-- Liste DropDown -->
+    <string-array name="select_urine">
+        <item>Non</item>
+        <item>Oui</item>
+    </string-array>
+
+    <string-array name="select_meco_selles">
+        <item>Non</item>
+        <item>M - Méco</item>
+        <item>S - Selles</item>
+    </string-array>
+
+    <!-- Button Menu -->
+    <string name="btn_ajout_text">Ajout</string>
+    <string name="btn_voirSaisie_text">Voir les saisies</string>
+
+
+</resources>
